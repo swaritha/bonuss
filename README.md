@@ -27,7 +27,7 @@ graph TD
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/thulasisadhvi/dao.git
+git clone (https://github.com/swaritha/bonuss)
 cd dao
 
 ```
